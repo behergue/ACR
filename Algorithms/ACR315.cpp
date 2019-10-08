@@ -1,3 +1,5 @@
+//Beatriz Herguedas Pinedo
+
 #include <iostream>
 
 using namespace std;
