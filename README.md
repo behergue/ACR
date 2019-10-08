@@ -4,7 +4,6 @@ Collection of problems from [*Acepta el Reto*](https://www.aceptaelreto.com/).
 
 | Problema &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Enunciado           | Solución           |
 | ------------- |:-------------:| :-------------:|
-
 | ACR109-Liga de pádel | [Enlace](https://www.aceptaelreto.com/problem/statement.php?id=109) | [Enlace](Algorithms/ACR109.cpp) |
 | ACR127-Una, dola, tela, catola| [Enlace](https://www.aceptaelreto.com/problem/statement.php?id=127) | [Enlace](Algorithms/ACR127.cpp)|
 | ACR139-Números cubifinitos | [Enlace](https://www.aceptaelreto.com/problem/statement.php?id=139) | [Enlace](Algorithms/ACR139.cpp) |
