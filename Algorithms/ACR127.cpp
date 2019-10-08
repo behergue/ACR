@@ -1,4 +1,4 @@
-// Beatriz Herguedas
+// Beatriz Herguedas Pinedo
 
 #include <stdexcept>
 #include <cassert>
